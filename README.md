@@ -1,6 +1,6 @@
 # 🚀 Python Mini Challenges — Beginner to AI App Developer (1 Day Sprint)
 
-👋 **Hi LinkedIn fam!**
+👋 **Hi dev fam!**
 Today I completed a series of small Python challenges to boost my programming skills, starting from basic syntax to deploying a real AI-powered web app. Sharing this to inspire fellow learners — feel free to try them too! 💡
 
 ---
