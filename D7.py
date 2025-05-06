@@ -1,4 +1,4 @@
-pip install streamlit scikit-learn pandas numpy matplotlib seaborn
+!pip install streamlit scikit-learn pandas numpy matplotlib seaborn
 
 # app.py
 
